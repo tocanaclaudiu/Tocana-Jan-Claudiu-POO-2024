@@ -1,0 +1,3 @@
+C:\Users\Vladi\Desktop\Claudiu facultate\New folder (2)\Calculator\x64\Debug\Calculator.vcxproj.AssemblyReference.cache
+C:\Users\Vladi\Desktop\Claudiu facultate\New folder (2)\Calculator\x64\Debug\Calculator.Form1.resources
+C:\Users\Vladi\Desktop\Claudiu facultate\New folder (2)\Calculator\x64\Debug\Calculator.vcxproj.GenerateResource.cache
