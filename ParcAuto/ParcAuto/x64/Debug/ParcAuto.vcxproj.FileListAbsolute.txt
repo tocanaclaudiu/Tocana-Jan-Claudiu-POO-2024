@@ -1,2 +1,0 @@
-C:\Users\Vladi\source\repos\ParcAuto\ParcAuto\x64\Debug\ParcAuto.vcxproj.AssemblyReference.cache
-C:\Users\Vladi\Desktop\Claudiu facultate\ParcAuto\ParcAuto\x64\Debug\ParcAuto.vcxproj.AssemblyReference.cache
